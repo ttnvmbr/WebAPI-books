@@ -1,0 +1,4 @@
+{
+    "uri": "http://145.24.222.223:8000/api/books",
+    "uitleg": "RESTful webservice voor het beheren van een boekencollectie. De boeken hebben drie velden: title, author, body. Link voor de checker is stud.hosted.hr.nl/0986721/webservice "
+}
